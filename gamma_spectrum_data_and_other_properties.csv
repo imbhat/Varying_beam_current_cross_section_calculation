@@ -1,0 +1,7 @@
+System,Beam_Energy(MeV),Stack(86MeV),Channel,file_name,pulser_peak_area,lapse_time,count_time,gap,E_gamma (keV),gamma_emission_probability(%),gamma_peak_area,expected_half_life(s),foil_thickness(mg/cm^2),target_A
+14N+175Lu,72.04,86,5n,Nlu_L7_1,4251.9,720,101,3,154.9,31,1605.802155,1038,1.18,175
+,,,,Nlu_L7_2,4991.9,1260,118,3,154.9,31,1349.064379,,,
+,,,,Nlu_L7_3,4322.3,1800,101,3,154.9,31,735.540496,,,
+,,,,Nlu_L7_4,4383.9,2400,101,3,154.9,31,667.6505582,,,
+,,,,Nlu_L7_5,13243,3360,300,3,154.9,31,964.6194091,,,
+,,,,Nlu_L7_6,13594.6,4740,301,3,154.9,31,380.7394759,,,
