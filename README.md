@@ -1,7 +1,6 @@
-# * Varying_beam_current_cross_section_calculation *
 Contains the python program and sample input files for cross-section calculation with the varying beam current 
 
-**"vary_beam.py" is the python file**
+"vary_beam.py" is the python file
 
 **"beam_current_vs_time" is the sample input file for giving beam current variation details**
 Hints of the formats can be found in this sample file
@@ -17,5 +16,6 @@ If that is the case, then the command to be executed is "pip3 install -r require
 
 All the other files are the output files generated.
 Look into the samples of them to know which is which.
+
 
 Download this folder/repository and do the calculations
