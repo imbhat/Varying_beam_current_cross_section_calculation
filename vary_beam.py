@@ -329,6 +329,9 @@ ax3.set_ylabel("Current (pnA)")
 ax3.yaxis.label.set_color(color1)
 ax3.set_xlabel("Irradiation time (s)")
 ax3.tick_params(axis="y", which="both", color=color1, labelcolor=color1)
+# loc argument is for the position of the legend on the graph of live number of nuclei
+# for my graph these coordinates work better
+# you will have to give different coordinates for getting right position of the legend on your graph 
 ax3leg = ax3.legend(loc=(0.29, 0.65), prop={"weight": "bold"})
 for text in ax3leg.get_texts():
     text.set_color(color1)
@@ -356,6 +359,9 @@ ax4.plot(
 # customizing ax4 axis
 ax4.set_ylabel("No. of live nuclei")
 ax4.yaxis.label.set_color(color2)
+# loc argument is for the position of the legend on the graph of live number of nuclei
+# for my graph these coordinates work better
+# you will have to give different coordinates for getting right position of the legend on your graph 
 ax4leg = ax4.legend(loc=(0.29, 0.79), prop={"weight": "bold"})
 ax4.yaxis.label.set_color(color2)
 ax4.spines["left"].set_color(color1)
