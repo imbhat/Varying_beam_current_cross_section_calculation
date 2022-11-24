@@ -1,9 +1,9 @@
-# **Bold Text** Varying_beam_current_cross_section_calculation
+# ** Varying_beam_current_cross_section_calculation **
 Contains the python program and sample input files for cross-section calculation with the varying beam current 
 
-"vary_beam.py" is the python file
+**"vary_beam.py" is the python file**
 
-"beam_current_vs_time" is the sample input file for giving beam current variation details
+**"beam_current_vs_time" is the sample input file for giving beam current variation details**
 Hints of the formats can be found in this sample file
 
 "gamma_spectrum_data_and_other_properties" is the sample input file for giving gamma spectrum and the target related properties
