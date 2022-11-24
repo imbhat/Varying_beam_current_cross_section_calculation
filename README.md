@@ -1,4 +1,4 @@
-# ** Varying_beam_current_cross_section_calculation **
+# * Varying_beam_current_cross_section_calculation *
 Contains the python program and sample input files for cross-section calculation with the varying beam current 
 
 **"vary_beam.py" is the python file**
